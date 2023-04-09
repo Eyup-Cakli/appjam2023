@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725704783303",
+    "project_id": "everything-app-cc11c",
+    "storage_bucket": "everything-app-cc11c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725704783303:android:81508748d5d9169061d5e2",
+        "android_client_info": {
+          "package_name": "com.example.everything_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725704783303-24ep6on3nmkkb9cru70c2k3v7vasvb7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63T1Q6-NMabIgWltdgnSGqsfXuVhBbbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725704783303-24ep6on3nmkkb9cru70c2k3v7vasvb7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
